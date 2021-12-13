@@ -1,0 +1,28 @@
+{
+  "files": {
+    "botaoi/Bot-devs/variables.js": [
+      {
+        "id": "afa87014-6007-47c2-b9a4-307ccbe6217a",
+        "line": 3,
+        "version": 34,
+        "index": 34
+      }
+    ],
+    "commands/mod/role.js": [
+      {
+        "id": "a2248c16-d1c1-44c3-9f64-f6c3e1e83cb1",
+        "line": 38,
+        "version": 19,
+        "index": 1404
+      }
+    ],
+    "index.js": [
+      {
+        "id": "605a0a20-b4e6-4d35-a7ef-13a82d56da34",
+        "line": 3,
+        "version": 649,
+        "index": 147
+      }
+    ]
+  }
+}

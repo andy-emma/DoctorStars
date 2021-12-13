@@ -1,0 +1,6 @@
+exports.PREFIX = "m!";
+
+exports.OWNER_ID = "846794001050894360" // IF U CHANGE PLS CHANGE IN OWNER.JSON ALSO
+
+exports.FOTER = "Emmaa#0001"
+
